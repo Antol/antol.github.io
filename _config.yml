@@ -9,11 +9,10 @@
 title: Moustached coder
 email: antol.peshkov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal Antol Peshkov's blog about work and little bit about life. 
+  Personal Antol Peshkov's blog about work and little bit about life. \n
   Using Objective-C, Swift, Ruby and English with varying degrees of success.
-  Worked at such apps as Buy Me a Pie, easyJet and Lifehacker
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://antol.github.io" # the base hostname & protocol for your site
+url: "http://perpetuumlab.com/" # the base hostname & protocol for your site
 twitter_username: AntolPeshkov
 github_username:  antol
 
