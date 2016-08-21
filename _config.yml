@@ -8,7 +8,7 @@
 # Site settings
 title: Moustached coder
 email: antol.peshkov@gmail.com
-description: | # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   Personal Antol Peshkov's blog about work and little bit about life.
   Using Objective-C, Swift, Ruby and English with varying degrees of success.
 baseurl: "" # the subpath of your site, e.g. /blog
